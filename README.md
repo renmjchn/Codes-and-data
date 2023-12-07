@@ -1,4 +1,4 @@
-This file describes the data files and R programs necessary to replicates tables and simulations for the paper “Threshold mixed data sampling logit model with an application to forecasting U.S. bank failures”. The contents of the .zip file are detailed below. 
+This file describes the data files and R programs necessary to replicates tables and simulations for the paper “Threshold mixed data sampling logit model with an application to forecasting U.S. bank failures”. The contents of of this repository are detailed below. 
 
 Running the file “estimation.R” allows the replication of Table 1.
 
